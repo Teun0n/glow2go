@@ -9,10 +9,15 @@ Features
 Sensor Control: The system can interface with up to 5 sensors placed along the pathway to detect motion or proximity.
 LED Strip Control: It can also control up to 5 LED strips that provide illumination to guide the user along the path.
 Database Integration: Utilizes SQL as a database to store sensor data and user-defined settings.
-Web Interface: A web application allows users to view logged data, configure active time-frame for the system, and adjust settings remotely.
+Web Interface: A web application allows users to view logged data, configure active time-frame for the system, and adjust settings remotely.  
 
-Contributors:
-Peter L. Almvig
-Simon A. Andreasen
-Adrian D. Anthony
+
+Contributors:  
+
+Peter L. Almvig  
+
+Simon A. Andreasen  
+
+Adrian D. Anthony  
+
 Rune Ø. Schrøder
