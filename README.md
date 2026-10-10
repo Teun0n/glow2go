@@ -6,7 +6,7 @@ The Glow2Go System is designed to provide a safe and intuitive pathway for users
 ## Features
 ### Sensor Control: The system can interface with up to 5 sensors placed along the pathway to detect motion or proximity.
 ### LED Strip Control: It can also control up to 5 LED strips that provide illumination to guide the user along the path.
-### Database Integration: Utilizes SQL as a database to store sensor data and user-defined settings.
+### Database Integration: Utilizes mySQL database to store sensor data and user-defined settings.
 ### Web Interface: A web application allows users to view logged data, configure active time-frame for the system, and adjust settings remotely.  
 
 
